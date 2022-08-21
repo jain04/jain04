@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jain04
-- 👀 I’m interested in Android developement
+- 👀 I’m interested in Android developement,flutter development
 - 🌱 I’m currently learning android beginner level of apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
